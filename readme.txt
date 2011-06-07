@@ -1,6 +1,6 @@
 === Notify me! ===
 Contributors: fat32
-Donate link: http://example.com/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7UBYEA7ZCBCZG
 Tags: comments, notification
 Requires at least: 3.1
 Tested up to: 3.1.2
