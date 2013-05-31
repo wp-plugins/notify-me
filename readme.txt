@@ -9,7 +9,7 @@ Stable tag: 1.0
 Brings back the email notification after a comment was approved.
 
 == Description ==
-* Author: Simon Hessner
+* Author: Simon H.
 * Author URL: http://www.net-developers.de/blog
 * Plugin Website: http://www.net-developers.de/blog/2011/06/08/notify-me-ein-plugin-fur-wordpress-3-1-aufwarts-sendet-eine-e-mail-nach-dem-bestatigen-von-kommentaren/
 * Version: 1.0
